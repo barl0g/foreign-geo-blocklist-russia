@@ -8,6 +8,7 @@ twilio.com
 cdn.oaistatic.com
 groq.com
 sketchup.com
+app.sketchup.com
 microsoft.com
 pump.fun
 chatgpt.com
