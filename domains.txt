@@ -1,0 +1,3 @@
+example.com
+another-example.org
+domain-blocked-by-foreign-provider.net
