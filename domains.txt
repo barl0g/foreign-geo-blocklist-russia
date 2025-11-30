@@ -1,29 +1,48 @@
+# Social Network
+truthsocial.com
+linkedin.com
+
+# Crypto
 tradinglite.com
+pump.fun
+kyberswap.com
+dexscreener.com
+
+# AI
+perplexity.ai
 openai.com
+chatgpt.com
+cdn.oaistatic.com
+groq.com
 bing.com
+
+# Gemini
+# ntc.party/t/обход-ограничения-работы-приложения-google-gemini/13082/9
+gemini.google.com
+www.googleapis.com
+speechs3proto2-pa.googleapis.com
+firebaseinstallations.googleapis.com
+proactivebackend-pa.googleapis.com
+geller-pa.googleapis.com
+
+# Other
 jsfiddle.net
 fiddle.jshell.net
 postfix.org
 twilio.com
-cdn.oaistatic.com
-groq.com
-sketchup.com
-app.sketchup.com
 microsoft.com
-pump.fun
-chatgpt.com
-truthsocial.com
-linkedin.com
 datastax.com
 mindjet.com
 datacamp.com
 n8n.cloud
-ngrok.com
 regex101.com
-kyberswap.com
-dexscreener.com
-perplexity.ai
 cloud.google.com
-gemini.google.com
-4pda.to
 getpostman.com
+ngrok.com
+
+sketchup.com
+app.sketchup.com
+
+# Some posts do not open with Russian ip
+4pda.to
+
