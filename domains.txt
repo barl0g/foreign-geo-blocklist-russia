@@ -10,9 +10,19 @@ dexscreener.com
 
 # AI
 perplexity.ai
+www.perplexity.ai
+cloudflare.com
+challenges.cloudflare.com
+cloudflareinsights.com
+static.cloudflareinsights.com
+
+# ChatGPT
 openai.com
 chatgpt.com
+chatgpt.com
+oaistatic.com
 cdn.oaistatic.com
+
 groq.com
 bing.com
 
