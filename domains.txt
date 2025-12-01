@@ -8,7 +8,8 @@ pump.fun
 kyberswap.com
 dexscreener.com
 
-# AI
+### AI ###
+# Perplexity
 perplexity.ai
 www.perplexity.ai
 cloudflare.com
@@ -18,7 +19,6 @@ static.cloudflareinsights.com
 
 # ChatGPT
 openai.com
-chatgpt.com
 chatgpt.com
 oaistatic.com
 cdn.oaistatic.com
