@@ -49,8 +49,6 @@ regex101.com
 cloud.google.com
 getpostman.com
 ngrok.com
-
-sketchup.com
 app.sketchup.com
 
 # Some posts do not open with Russian ip
