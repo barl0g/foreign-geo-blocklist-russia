@@ -1,8 +1,8 @@
-# Social Network
+### Social Network ###
 truthsocial.com
 linkedin.com
 
-# Crypto
+### Crypto ###
 tradinglite.com
 pump.fun
 kyberswap.com
@@ -35,7 +35,16 @@ firebaseinstallations.googleapis.com
 proactivebackend-pa.googleapis.com
 geller-pa.googleapis.com
 
-# Other
+### Anti viruses ###
+# Avast
+avast.com
+avcdn.net
+asw.cz
+avg.com
+
+database.clamav.net
+
+### Other ###
 jsfiddle.net
 fiddle.jshell.net
 postfix.org
