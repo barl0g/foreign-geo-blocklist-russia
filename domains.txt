@@ -64,3 +64,12 @@ app.sketchup.com
 # Some posts do not open with Russian ip
 4pda.to
 
+# Lenovo
+download.lenovo.com
+support.lenovo.com
+fod.lenovo.com
+soaus.lenovo.com
+logupload.lenovo.com
+esupportwebapi.lenovo.com
+supportapi.lenovo.com
+
