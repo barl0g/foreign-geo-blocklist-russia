@@ -37,6 +37,7 @@ geller-pa.googleapis.com
 
 ### Anti viruses ###
 # Avast
+www.avast.com
 avast.com
 avcdn.net
 asw.cz
