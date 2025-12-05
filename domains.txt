@@ -50,7 +50,7 @@ jsfiddle.net
 fiddle.jshell.net
 postfix.org
 twilio.com
-microsoft.com
+download.microsoft.com
 datastax.com
 mindjet.com
 datacamp.com
@@ -64,12 +64,12 @@ app.sketchup.com
 # Some posts do not open with Russian ip
 4pda.to
 
-# Lenovo
-download.lenovo.com
-support.lenovo.com
-fod.lenovo.com
-soaus.lenovo.com
-logupload.lenovo.com
-esupportwebapi.lenovo.com
-supportapi.lenovo.com
+## Lenovo
+# download.lenovo.com
+# support.lenovo.com
+# fod.lenovo.com
+# soaus.lenovo.com
+# logupload.lenovo.com
+# esupportwebapi.lenovo.com
+# supportapi.lenovo.com
 
